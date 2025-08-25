@@ -1,0 +1,11 @@
+#.gitignore
+# Files and folders to exclude from management
+
+# Temporary files to exclude
+*.tmp
+*.~*
+
+
+
+*.tmp
+*.~*
