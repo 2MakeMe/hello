@@ -1,2 +1,12 @@
 [hello.txt]
 
+깃은 깃털처럼 가볍다.
+
+(깃)
+1. 번전관리 (Version Management)
+2. 이력관리 (Resume Management)
+3. 브랜치관리 (Branch Management)
+4. 분산버전관리 (Distributed Version Management)
+
+(branch)
+if you don't log, it will not remember
