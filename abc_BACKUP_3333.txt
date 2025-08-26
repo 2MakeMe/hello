@@ -1,0 +1,16 @@
+{abc.txt)
+
+abc 123
+
+#3rd edit
+
+#4th edit
+
+#5th edit
+
+<<<<<<< HEAD
+(main)
+=======
+(br2)
+>>>>>>> br2
+data
