@@ -57,3 +57,16 @@ jason  | stuff1
 ### Emoji
 :+1: Good Job!
 :cold_face:
+
+### ORDER of Method
+1. Requirements, collection and analysis
+2. Definition of required functions
+3. Concept Design
+4. Physical Design
+   1. Physical Modelling
+   2. Physical verification
+5. Function Implementation
+6. Function Test
+7. Build
+8. Distribution
+   
